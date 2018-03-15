@@ -1,0 +1,1 @@
+<p>Mailer works!</p>

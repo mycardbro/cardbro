@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS `cc_accountsprod`; CREATE TABLE `cc_accountsprod` (`id` integer(11) NOT NULL AUTO_INCREMENT,PRIMARY KEY (`id`)) ENGINE=InnoDB DEFAULT CHARSET=utf8;INSERT INTO cc_accountsprod ()  VALUES;
